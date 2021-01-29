@@ -1,1 +1,2 @@
-# class-45-project-
+# Escape the Cave Game
+Game created for the final project
